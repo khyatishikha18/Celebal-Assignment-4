@@ -1,5 +1,4 @@
 # Celebal-Assignment-4![Screenshot (4)](https://github.com/user-attachments/assets/ce478938-08b6-4f14-848f-0411114ef0f2)
-![Screenshot (4)](https://github.com/user-attachments/assets/e6293e30-94e8-4d6a-bb20-37e4f5bc63db)
 ![Screenshot (6)](https://github.com/user-attachments/assets/561643ee-c345-4ad9-bdf6-159bba7794ab)
 ![Screenshot (7)](https://github.com/user-attachments/assets/53691945-7530-4642-b120-2fd7c4925d9e)
 ![Screenshot (8)](https://github.com/user-attachments/assets/f4a8b179-542f-441b-a572-64da56f49807)
